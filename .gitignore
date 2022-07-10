@@ -1,0 +1,14 @@
+/.idea/runConfigurations/
+/target/
+/src/main/resources/
+/.idea/compiler.xml
+/.idea/intellij-javadocs-4.0.1.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+/dataSources/
+/dataSources.local.xml
+/shelf/
+/workspace.xml
+
